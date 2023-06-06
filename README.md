@@ -9,7 +9,7 @@ This project contains an analysis on electricity production in the 37 OECD count
 * Clean the data as required for the analysis
 * Answer to the following questions:
   * How total electricity production in OECD countries changed over the years 2010-2022?
-  * What proportions did OECD regions take from the OECD Total electricity production? How did it change over the years?
+  * Is electricity production in OECD countries seasonal? How did monthly electricity production changed over time?
   * What are the proportions for different energy sources in the OECD total electricity productions? How did they change over the period 2010-2022?
   * What were the top-5 energy sources in each OECD region in 2022?
   * How did the total low-carbon electricity production in OECD countries change in 2010-2022 period?
